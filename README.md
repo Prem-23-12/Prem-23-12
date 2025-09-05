@@ -1,13 +1,5 @@
 ## Hi there 👋
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=karan2527&label=Profile%20views&color=ff8c00&style=flat-square" alt="karan2527" /> 
-</p>
 <!--
 **Prem-23-12/Prem-23-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

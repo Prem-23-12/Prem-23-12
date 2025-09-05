@@ -14,4 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🛡️ I'm a **Cybersecurity student**, **c++ developer** and **Full Stack Developer**    - 📫 Reach me at **premparmar.2005@gmail.com**<h3 align="left">Connect with me:</h3><p align="left">  <a target="_blank" style="margin-right: 10px;">   # 💻 Tech Stack:![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"># 📊 GitHub Stats:<table>  <tr>    <td>      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem-23-12&theme=neon-palenight&hide_border=true&card_width=705" />    </td>  </tr>  <tr>    <td>      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prem-23-12&theme=2077" />    </td>  </tr></table><table>  <tr>    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prem-23-12&theme=aura_dark" /></td>    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prem-23-12&theme=aura_dark" /></td>  </tr>
+🛡️ I'm a **Cybersecurity student**, **c++ developer** and **Full Stack Developer**    -<h1 align="center">Hi 👋, I'm Prem Parmar</h1>
+<h3 align="center">Aspiring MERN Stack Developer | Tech Enthusiast 🚀</h3>
+
+---
+
+## 🌐 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:your-email@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="left"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 Current Focus
+- 🔭 Learning **MERN Stack Development**
+- 🌱 Building **real-world projects**
+- 👯 Looking to collaborate on **open-source**
+- 📫 Reach me: **your-email@gmail.com**

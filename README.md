@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Prem-23-12&label=Profile%20views&color=ff8c00&style=flat-square" alt="Prem-23-12" /> 
 </p>
 
-🛡️ I'm a **Cybersecurity and Data Science** , **C++ developer**   
+🛡️ I'm a **Cybersecurity and Data Science Student** , **C++ developer**   
  - 📫 Reach me at **premparmar.2005@gmail.com**
  - 
  <p align="left">  <a target="_blank" style="margin-right: 10px;">

@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 🛡️ I'm a **Cybersecurity and Data Science Student** , **C++ developer**   
  - 📫 Reach me at **premparmar.2005@gmail.com**
- - 
  <p align="left">  <a target="_blank" style="margin-right: 10px;">
    
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
